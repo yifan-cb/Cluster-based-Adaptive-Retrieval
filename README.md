@@ -8,4 +8,5 @@ A lightweight, embedding‑agnostic method that dynamically selects the optimal 
 
 *Title*: **Cluster-based Adaptive Retrieval: Dynamic Context Selection for
 RAG Applications**
+
 *Status*: In preparation for submission to **KDD 2025**.
